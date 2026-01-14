@@ -72,6 +72,6 @@ This website showcases my skills, projects and contact details in a clean and re
 Aspiring Full-Stack Developer
 
 - GItHub:
-[sathyanarayanan-devs]{https://github.com/sathyanarayanan-devs}
+[sathyanarayanan-devs](https://github.com/sathyanarayanan-devs)
 
 - Email: sathyanarayanan092@gmail.com
