@@ -66,6 +66,8 @@ This website showcases my skills, projects and contact details in a clean and re
 
 3. Open *index.html* in your browser.
 
+---
+
 ## 🧑‍💻 Author
 
 **Sathyanarayanan S**
