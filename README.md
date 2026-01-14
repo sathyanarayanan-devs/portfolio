@@ -52,7 +52,7 @@ This website showcases my skills, projects and contact details in a clean and re
 3. **Perfume Store Page**
     - A basic store page designed using HTML and CSS
 
---
+---
 
 ## 🚀 How to run Locally
 
