@@ -8,7 +8,7 @@ This website showcases my skills, projects and contact details in a clean and re
 
 ## 🔗 Live Demo
 
-🚧 Coming Soon - Will be deployed using GitHub Pages
+👉 https://sathyanarayanan-devs.github.io/portfolio/
 
 ---
 
