@@ -52,6 +52,12 @@ This website showcases my skills, projects and contact details in a clean and re
 3. **Perfume Store Page**
     - A basic store page designed using HTML and CSS
 
+4. **Anime Quiz Page**
+    - Basic HTML, CSS and JS (DOM manipulation)
+
+5. **Color Palette Generator**
+    - Basic Css color Generator Using HTML, CSS, JS (DOM manipulation and Event Handling)
+
 ---
 
 ## 🚀 How to run Locally
@@ -59,11 +65,11 @@ This website showcases my skills, projects and contact details in a clean and re
 1. Clone the repository
     ```Bash
     git clone https://github.com/sathyanarayanan-devs/portfolio.git
-
+    ```
 2. Open the folder:
     ```Bash
     cd portfolio
-
+    ```
 3. Open *index.html* in your browser.
 
 ---
@@ -77,3 +83,6 @@ Aspiring Full-Stack Developer
 [sathyanarayanan-devs](https://github.com/sathyanarayanan-devs)
 
 - Email: sathyanarayanan092@gmail.com
+
+- LinkedIn:
+[Sathyanarayanan S](https://www.linkedin.com/in/sathyanarayanan-s-87500b3a0/)
