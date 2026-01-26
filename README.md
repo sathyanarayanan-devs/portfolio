@@ -58,6 +58,8 @@ This website showcases my skills, projects and contact details in a clean and re
 5. **Color Palette Generator**
     - Basic Css color Generator Using HTML, CSS, JS (DOM manipulation and Event Handling)
 
+6. **Simple Kandan Board**
+    - A simple Kanban board built with HTML, CSS, and JavaScript that allows users to add tasks and move them across columns using drag-and-drop.
 ---
 
 ## 🚀 How to run Locally
